@@ -7,3 +7,10 @@ I am going to change the language I code in every week!
 Week One: Javascript
 
 
+## Week 1: August 1st – August 7th [Javascript]
+
+* Day 1: [Detect Capital](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3409/)
+
+    > Implementation | 
+    > Time: O(n) |
+    > Space: O(n)

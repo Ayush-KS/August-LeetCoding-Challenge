@@ -14,3 +14,9 @@ Week One: Javascript
     > Implementation | 
     > Time: O(n) |
     > Space: O(n)
+
+* Day 2: [Design HashSet](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3410/)
+
+    > Hashing | 
+    > Time: O(1 + L.F) |
+    > Space: O(L.F * N) [Where L.F represents the Load Factor i.e ratio of the number of keys to the number of slots and N represents the number of slots]

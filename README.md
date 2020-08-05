@@ -27,3 +27,9 @@ Week One: Javascript
     > Time: O(n) |
     > Space: O(n)
     
+* Day 4: [Power of Four](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3412/)
+
+    > Bitwise Manipulation | 
+    > Time: O(1) |
+    > Space: O(1)
+    

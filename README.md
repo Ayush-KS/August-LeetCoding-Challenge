@@ -38,3 +38,9 @@ Week One: Javascript
     > Trie | 
     > Time: O(n) |
     > Space: O(n)
+
+* Day 6: [Find All Duplicates in an Array](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3414/)
+
+    > Implementation | 
+    > Time: O(n) |
+    > Space: O(1)

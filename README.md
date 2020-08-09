@@ -44,3 +44,9 @@ Week One: Javascript
     > Implementation | 
     > Time: O(n) |
     > Space: O(1)
+
+* Day 7: [Vertical Order Traversal of a Binary Tree](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3415/)
+
+    > BFS | 
+    > Time: O(n) |
+    > Space: O(n)

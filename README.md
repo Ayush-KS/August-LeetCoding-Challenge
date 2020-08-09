@@ -6,6 +6,7 @@ I am going to change the language I code in every week!
 
 Week One: Javascript
 
+Week Two: C++
 
 ## Week 1: August 1st – August 7th [Javascript]
 
@@ -50,3 +51,12 @@ Week One: Javascript
     > BFS | 
     > Time: O(n) |
     > Space: O(n)
+
+
+## Week 2: August 8th – August 14th [C++]
+
+* Day 8: [Path Sum III](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3417/)
+
+    > DFS | 
+    > Time: O(n) |
+    > Space: O(n^2)

@@ -60,3 +60,9 @@ Week Two: C++
     > DFS | 
     > Time: O(n) |
     > Space: O(n^2)
+
+* Day 9: [Rotten Oranges](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3418/)
+
+    > BFS | 
+    > Time: O(n^2) |
+    > Space: O(n^2)

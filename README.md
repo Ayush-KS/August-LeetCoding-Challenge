@@ -72,3 +72,9 @@ Week Two: C++
     > Implementation | 
     > Time: O(n) |
     > Space: O(1)
+
+* Day 11: [H-Index](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3420/)
+
+    > Sorting | 
+    > Time: O(n*logn) |
+    > Space: O(1)

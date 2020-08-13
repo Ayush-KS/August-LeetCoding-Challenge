@@ -78,3 +78,9 @@ Week Two: C++
     > Sorting | 
     > Time: O(n*logn) |
     > Space: O(1)
+
+* Day 12: [Pascal's Triangle II](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3421/)
+
+    > Implementation | 
+    > Time: O(n) |
+    > Space: O(n)

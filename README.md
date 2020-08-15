@@ -90,3 +90,9 @@ Week Two: C++
     > Combinatorics | 
     > Time: O(1) [For each function call] |
     > Space: O(1)
+
+* Day 14: [Longest Palindrome](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3423/)
+
+    > Greedy | 
+    > Time: O(n) |
+    > Space: O(n)

@@ -112,3 +112,9 @@ Week Two: C++
     > Dynamic Programming | 
     > Time: O(n) |
     > Space: O(n)
+
+* Day 17: [Distribute Candies to People](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3427/)
+
+    > Dynamic Programming | 
+    > Time: O(n^(0.5)) |
+    > Space: O(n)

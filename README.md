@@ -96,3 +96,13 @@ Week Two: C++
     > Greedy | 
     > Time: O(n) |
     > Space: O(n)
+
+
+
+## Week 3: August 15th – August 21st [C++]
+
+* Day 15: [Non-overlapping Intervals](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3425/)
+
+    > Greedy | 
+    > Time: O(nlogn) |
+    > Space: O(1)

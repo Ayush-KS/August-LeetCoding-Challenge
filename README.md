@@ -2,11 +2,6 @@
 
 This is a challenge by [LeetCode](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/) consisting of 31 daily problems over the month of August. A problem is added each day, and we have 24 hours to make a valid submission. I will be uploading my solutions in this repository after the deadline to make a valid submission for the given problem has passed.
 
-I am going to change the language I code in every week!
-
-Week One: Javascript
-
-Week Two: C++
 
 ## Week 1: August 1st – August 7th [Javascript]
 
@@ -118,3 +113,10 @@ Week Two: C++
     > Dynamic Programming | 
     > Time: O(n^(0.5)) |
     > Space: O(n)
+
+* Day 18: [Numbers With Same Consecutive Differences](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3428/)
+
+    > Recursion | 
+    > Time: O(2^n) |
+    > Space: O(2^n)
+

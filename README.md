@@ -120,3 +120,8 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/challenge/card/au
     > Time: O(2^n) |
     > Space: O(2^n)
 
+* Day 19: [Goat Latin](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3429/)
+
+    > String Tokenizing | 
+    > Time: O(n) |
+    > Space: O(n)

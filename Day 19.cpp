@@ -8,7 +8,6 @@ public:
     }
     
     string toGoatLatin(string s) {
-        string op = "";
         stringstream check(s);
         string temp;
         vector<string> v;
@@ -17,6 +16,7 @@ public:
             v.push_back(temp);
         }
         
+        string op = "";
         for(int i = 0; i < v.size(); i++) {
             if(i) {
                 op += " ";

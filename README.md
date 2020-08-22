@@ -125,3 +125,9 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/challenge/card/au
     > String Tokenizing | 
     > Time: O(n) |
     > Space: O(n)
+
+* Day 20: [Reorder List](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3430/)
+
+    > Stack | 
+    > Time: O(n) |
+    > Space: O(n)

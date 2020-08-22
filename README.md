@@ -131,3 +131,9 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/challenge/card/au
     > Stack | 
     > Time: O(n) |
     > Space: O(n)
+
+* Day 21: [Sort Array By Parity](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3431/)
+
+    > Two Pointers | 
+    > Time: O(n) |
+    > Space: O(1)

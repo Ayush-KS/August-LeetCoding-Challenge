@@ -137,3 +137,12 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/challenge/card/au
     > Two Pointers | 
     > Time: O(n) |
     > Space: O(1)
+
+
+## Week 4: August 22nd – August 28th [C++]
+
+* Day 22: [Random Point in Non-overlapping Rectangles](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/552/week-4-august-22nd-august-28th/3433/)
+
+    > Discrete Distribution | 
+    > Time: O(n) [Precomputation + Function call] |
+    > Space: O(n)

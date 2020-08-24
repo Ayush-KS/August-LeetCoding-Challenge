@@ -146,3 +146,10 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/challenge/card/au
     > Discrete Distribution | 
     > Time: O(n) [Precomputation + Function call] |
     > Space: O(n)
+
+* Day 23: [Stream of Characters](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/552/week-4-august-22nd-august-28th/3433/)
+
+    > Trie | 
+    > Time: O(n) [Precomputation + Function call] |
+    > Space: O(n)
+    

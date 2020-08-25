@@ -153,3 +153,9 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/challenge/card/au
     > Time: O(n) [Precomputation + Function call] |
     > Space: O(n)
     
+* Day 24: [Sum of Left Leaves](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/552/week-4-august-22nd-august-28th/3434/)
+
+    > DFS | 
+    > Time: O(n) |
+    > Space: O(n)
+    

@@ -158,4 +158,10 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/challenge/card/au
     > DFS | 
     > Time: O(n) |
     > Space: O(n)
+
+* Day 25: [Minimum Cost For Tickets](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/552/week-4-august-22nd-august-28th/3435/)
+
+    > Dynamic Programming | 
+    > Time: O(n) |
+    > Space: O(n)
     

@@ -165,3 +165,9 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/challenge/card/au
     > Time: O(n) |
     > Space: O(n)
     
+* Day 26: [Fizz Buzz](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/552/week-4-august-22nd-august-28th/3436/)
+
+    > Implementation | 
+    > Time: O(n) |
+    > Space: O(n)
+    

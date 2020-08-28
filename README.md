@@ -170,3 +170,9 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/challenge/card/au
     > Implementation | 
     > Time: O(n) |
     > Space: O(n)
+
+* Day 27: [Find Right Interval](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/552/week-4-august-22nd-august-28th/3438/)
+
+    > Binary Search | 
+    > Time: O(nlogn) |
+    > Space: O(n)

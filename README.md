@@ -176,3 +176,9 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/challenge/card/au
     > Binary Search | 
     > Time: O(nlogn) |
     > Space: O(n)
+
+* Day 28: [Implement Rand10() Using Rand7()](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/552/week-4-august-22nd-august-28th/3439/)
+
+    > Rejection Sampling | 
+    > Time: O(1) |
+    > Space: O(1)

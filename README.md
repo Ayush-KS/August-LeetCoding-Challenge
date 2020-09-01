@@ -182,3 +182,12 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/challenge/card/au
     > Rejection Sampling | 
     > Time: O(1) |
     > Space: O(1)
+
+
+## Week 5: August 29th – August 31st [C++]
+
+* Day 29: [Pancake Sorting](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/553/week-5-august-29th-august-31st/3441/)
+
+    > Bubble Sort | 
+    > Time: O(n^2) |
+    > Space: O(n)

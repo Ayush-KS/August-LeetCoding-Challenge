@@ -197,3 +197,9 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/challenge/card/au
     > Union Find | 
     > Time: O(n^1.5) |
     > Space: O(n)
+
+* Day 31: [Delete Node in a BST](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/553/week-5-august-29th-august-31st/3443/)
+
+    > Recursion | 
+    > Time: O(log(n)) |
+    > Space: O(log(n))

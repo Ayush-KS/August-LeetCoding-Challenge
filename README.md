@@ -191,3 +191,9 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/challenge/card/au
     > Bubble Sort | 
     > Time: O(n^2) |
     > Space: O(n)
+
+* Day 30: [Largest Component Size by Common Factor](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/553/week-5-august-29th-august-31st/3442/)
+
+    > Union Find | 
+    > Time: O(n^1.5) |
+    > Space: O(n)
